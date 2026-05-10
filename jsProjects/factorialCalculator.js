@@ -1,6 +1,8 @@
 /*
 On this tiny project I had to create a function 
-to create a Factorial calculator... It was made on fCC "freeCodeCamp". 
+to create a Factorial calculator... It was made on fCC "freeCodeCamp".
+this only work from numbers 1 to 20...
+
 */
 
 //// My Code
