@@ -34,3 +34,6 @@ function generatePassword(pass) {
 let password = generatePassword(12);
 
 console.log(`Generated password: ${password}`)
+
+
+////
